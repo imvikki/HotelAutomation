@@ -1,0 +1,13 @@
+it\example\hotelautomation\interfaces\entity\SubCorridor.class
+it\example\hotelautomation\interfaces\exception\HotelAutomationException.class
+it\example\hotelautomation\core\AppliancesStatusManager.class
+it\example\hotelautomation\interfaces\entity\MovementView.class
+it\example\hotelautomation\controller\AppliancesStatusController.class
+it\example\hotelautomation\common\HotelAutomationConstants.class
+it\example\hotelautomation\interfaces\entity\MainCorridor.class
+it\example\hotelautomation\interfaces\entity\Floor.class
+it\example\hotelautomation\interfaces\entity\HotelAppliancesView.class
+it\example\hotelautomation\HotelautomationApplication.class
+it\example\hotelautomation\interfaces\IAppliancesStatusManager.class
+it\example\hotelautomation\interfaces\entity\HotelDetailView.class
+it\example\hotelautomation\common\HotelAutomationErrorConstants.class
